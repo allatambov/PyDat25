@@ -1,6 +1,6 @@
 # PyDat25
 
-## Неделя 1. Шкалы данных. Датафреймы pandas: типы данных и перекодирование
+### Неделя 1. Шкалы данных. Датафреймы pandas: типы данных и перекодирование
 
 Все файлы в одной папке, если не скачивается с Github.
 
@@ -17,13 +17,35 @@
 Для краткого ознакомления с классами можно прочитать [конспект](https://github.com/allatambov/PyDat25/blob/main/classes.ipynb), для закрепления теории можно
 выполнить [задачи](https://github.com/allatambov/PyDat25/blob/main/classes-problems.ipynb), связанные с теорией вероятностей.
 
-## Неделя 2. Датафреймы pandas: фильтрация
+### Лабораторная работа 1. Массивы Numpy: проверка условий и фильтрация
+
+* Необходимая теория для выполнения работы: конспект ([ipynb](https://github.com/allatambov/PyDat25/blob/main/lab01-theory.ipynb)), видео по конспекту ([ссылка](https://disk.yandex.ru/d/sQmDQEPDWtWdSQ)).
+
+Для сдачи задания нужно скачать ipynb-файл ниже, вписать код вместо ### YOUR CODE HERE ###,
+сохранить изменения, загрузить по ссылке на Dropbox.
+
+| Задание | Дедлайн |  Dropbox |
+|:-:|:--:|:---:|
+| [Лабораторная работа №1](https://github.com/allatambov/PyDat25/blob/main/lab01.ipynb) | 18 ноября 10:00 |   |
+
+
+### Неделя 2. Датафреймы pandas: фильтрация
 
 * Практикум 2. Датафреймы pandas: поиск пропущенных значений и фильтрация наблюдений ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice02.ipynb), [csv](https://github.com/allatambov/PyDat25/blob/main/disney_clean.csv)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice02-solved.ipynb))
 * Практикум 2*. Фильтрация за рамками датафрейма: работа с индексами ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice02-add.ipynb))
 * Практикум 3. Датафреймы pandas: фильтрация наблюдений и описательные статистики ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice03.ipynb), [csv](https://github.com/allatambov/PyReg25/blob/main/Stars.csv)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice03-solved.ipynb))
 
-## Неделя 3. Датафреймы pandas: добавление новых столбцов
+### Лабораторная работа 2. Функция map() и lambda-функции, векторизация функций
+Необходимая теория для выполнения работы: конспект (ipynb), видео по конспекту (ссылка).
+
+Для сдачи задания нужно скачать ipynb-файл ниже, вписать код вместо ### YOUR CODE HERE ###,
+сохранить изменения, загрузить по ссылке на Dropbox.
+
+| Задание | Дедлайн |  Dropbox |
+|:-:|:--:|:---:|
+| [Лабораторная работа №2](https://github.com/allatambov/PyDat25/blob/main/lab02.ipynb) | 25 ноября 10:00 |   |
+
+### Неделя 3. Датафреймы pandas: добавление новых столбцов
 
 * Практикум 4. Датафреймы pandas: добавление новых столбцов ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice04.ipynb)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice04-solved.ipynb))
 
@@ -35,7 +57,18 @@
 Для краткого ознакомления с регулярными выражениями можно прочитать [конспект](https://github.com/allatambov/PyDat25/blob/main/regex-intro.ipynb), для закрепления
 теории можно выполнить [задачи](https://github.com/allatambov/PyDat25/blob/main/regex-problems.ipynb).
 
-## Неделя 4. Датафреймы pandas: фильтрация и объединение датафреймов
+### Лабораторная работа 3. Множества
+
+* Необходимая теория для выполнения работы: конспект ([ipynb](https://github.com/allatambov/PyDat25/blob/main/lab03-theory.ipynb)).
+
+Для сдачи задания нужно скачать ipynb-файл ниже, вписать код вместо ### YOUR CODE HERE ###,
+сохранить изменения, загрузить по ссылке на Dropbox.
+
+| Задание | Дедлайн |  Dropbox |
+|:-:|:--:|:---:|
+| [Лабораторная работа №3](https://github.com/allatambov/PyDat25/blob/main/lab03.ipynb) | 2 декабря 10:00 |   |
+
+### Неделя 4. Датафреймы pandas: фильтрация и объединение датафреймов
 
 * Немного логики и множеств. Объединение таблиц ([слайды](https://disk.yandex.ru/d/1ToNMvkWsduVEg))
 * Практикум 5. Датафреймы pandas: выбор строк и столбцов и простое объединение датафреймов ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice05.ipynb)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice05-solved.ipynb))
@@ -48,24 +81,47 @@
 посмотреть [практикум](https://github.com/allatambov/PyDat25/blob/main/text-and-wordclouds.ipynb), в качестве текстов используются заголовки новостей из знакомого файла с новостями
 (ссылки на вспомогательные файлы – внутри практикума).
 
-## Неделя 5. Датафреймы pandas: описательные статистики
+### Лабораторная работа (без оценки). Описательные статистики
+
+К следующему занятию (неделя 5) необходимо освежить в памяти теорию по описательным статистикам по [слайдам](https://disk.yandex.ru/d/bYqnkw1P7cIsEg).
+Также стоит вспомнить, как определять шкалу данных, в простом варианте: количественная, порядковая или качественная.
+
+Что нужно уметь:
+
+* интерпретировать описательные статистики: медиана, нижний и верхний квартиль;
+* различать дисперсию и стандартное отклонение;
+* выбирать меру центральной тенденции/меру изменчивости в зависимости от типа шкалы;
+* определять потенциальное наличие нетипично больших/маленьких значений, сравнивая среднее и медиану.
+
+### Неделя 5. Датафреймы pandas: описательные статистики
 
 * Практикум 7. Описательные статистики и заполнение пропущенных значений ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice07.ipynb)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice07-solved.ipynb))
 
-## Неделя 6. Датафреймы pandas: группировка и агрегирование
+### Лабораторная работа 4. Поиск выбросов
+
+* Необходимая теория для выполнения работы: [слайды](https://disk.yandex.ru/d/Lp9aq1tQAJtlYA).
+
+Для сдачи задания нужно скачать ipynb-файл ниже, вписать код вместо ### YOUR CODE HERE ###,
+сохранить изменения, загрузить по ссылке на Dropbox.
+
+| Задание | Дедлайн |  Dropbox |
+|:-:|:--:|:---:|
+| [Лабораторная работа №4](https://github.com/allatambov/PyDat25/blob/main/lab04.ipynb) | 16 декабря 10:00 |   |
+
+### Неделя 6. Датафреймы pandas: группировка и агрегирование
 
 * Практикум 8. Датафреймы pandas: группировка и агрегирование ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice08.ipynb)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice08-solved.ipynb))
 
-## Неделя 7. Датафреймы pandas: агрегирование и введение в мультииндексы
+### Неделя 7. Датафреймы pandas: агрегирование и введение в мультииндексы
 
 * Практикум 9. Датафреймы pandas: агрегирование и введение в мультииндексы ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice09.ipynb)), решения ([ipynb]())
 
-## Неделя 8. Примеры графиков 1: столбиковая, круговая и кольцевая диаграммы
+### Неделя 8. Примеры графиков 1: столбиковая, круговая и кольцевая диаграммы
 
 * Практикум 10. Примеры графиков: столбиковая, круговая и кольцевая диаграммы ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice10.ipynb), [csv](https://github.com/allatambov/PyDat25/blob/main/hp_movies.csv))
 * Практикум 10*. Дополнительные настройки столбиковых и круговых диаграмм (ipynb)
 
-## Лабораторная работа 5. Визуализация данных: гистограмма и ящик с усами
+### Лабораторная работа 5. Визуализация данных: гистограмма и ящик с усами
 
 * Необходимая теория для выполнения работы: [слайды](https://disk.yandex.ru/d/9Mt6RcYjRELW_w), [конспект](https://github.com/allatambov/PyDat25/blob/main/lab05-theory.ipynb)
 
@@ -74,21 +130,21 @@
 
 | Задание | Дедлайн |  Форма |
 |:-:|:--:|:---:|
-| Вариант 1, данные | 30 января 10:00 |  ссылка |
-| Вариант 2, данные | 30 января 10:00 |  ссылка |
+| [Вариант 1](https://disk.yandex.ru/i/yfoTqUPTbshbqw), [данные](https://github.com/allatambov/PyDat25/blob/main/Weather_Data.csv) | 30 января 10:00 |  [ссылка](https://forms.gle/kMur4tRGhb2JGPUF7) |
+| [Вариант 2](https://disk.yandex.ru/i/rKiECnSa7jwCVQ), [данные](https://github.com/allatambov/PyDat25/blob/main/Weather_Data.csv) | 30 января 10:00 |  [ссылка](https://forms.gle/CG1KhDMyzw4sLkYq9) |
 
 
-## Неделя 9. Мультиндексы. Примеры графиков 2: линейный график
+### Неделя 9. Мультиндексы. Примеры графиков 2: линейный график
 
 * Практикум 11. Мультиндексы. Примеры графиков: линейный график ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice11.ipynb), [csv](https://github.com/allatambov/PyDat25/blob/main/Weather_Data.csv)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice11-solved.ipynb))
-* * Практикум 11*. Дополнительные настройки линейных графиков (ipynb)
+* Практикум 11*. Дополнительные настройки линейных графиков (ipynb)
 
-## Неделя 10. Характеристики распределения
+### Неделя 10. Характеристики распределения
 
 * Практикум 12. Характеристики распределения. Асимметрия и эксцесс ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice12.ipynb)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice12-solved.ipynb))
 * Асимметрия и эксцесс: немного теории (слайды)
 
-## Лабораторная работа 6. Проверка гипотез и примеры статистических критериев
+### Лабораторная работа 6. Проверка гипотез и примеры статистических критериев
 
 * Необходимая теория для выполнения работы: [слайды](https://disk.yandex.ru/i/Mc8dVrDRb5MFFg)
 
