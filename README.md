@@ -32,7 +32,7 @@
 Поскольку ближайшие недели мы обсуждаем работу с текстовыми столбцами в том числе, отличная идея –
 познакомиться с регулярными выражениями и научиться использовать их для продвинутого поиска.
 
-Для краткого ознакомления с [регулярными выражениями](https://github.com/allatambov/PyDat25/blob/main/regex-intro.ipynb) можно прочитать конспект, для закрепления
+Для краткого ознакомления с регулярными выражениями можно прочитать [конспект](https://github.com/allatambov/PyDat25/blob/main/regex-intro.ipynb), для закрепления
 теории можно выполнить [задачи](https://github.com/allatambov/PyDat25/blob/main/regex-problems.ipynb).
 
 ## Неделя 4. Датафреймы pandas: фильтрация и объединение датафреймов
@@ -58,12 +58,12 @@
 
 ## Неделя 7. Датафреймы pandas: агрегирование и введение в мультииндексы
 
-* Практикум 9. Датафреймы pandas: агрегирование и введение в мультииндексы ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice09.ipynb))
+* Практикум 9. Датафреймы pandas: агрегирование и введение в мультииндексы ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice09.ipynb)), решения ([ipynb]())
 
 ## Неделя 8. Примеры графиков 1: столбиковая, круговая и кольцевая диаграммы
 
 * Практикум 10. Примеры графиков: столбиковая, круговая и кольцевая диаграммы ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice10.ipynb), [csv](https://github.com/allatambov/PyDat25/blob/main/hp_movies.csv))
-* Практикум 10*. Дополнительные настройки столбиковых и круговых диаграмм
+* Практикум 10*. Дополнительные настройки столбиковых и круговых диаграмм (ipynb)
 
 ## Лабораторная работа 5. Визуализация данных: гистограмма и ящик с усами
 
@@ -72,15 +72,30 @@
 Для сдачи задания нужно заполнить гугл-форму в зависимости от своего варианта:
 вариант 1 – если число букв в вашей фамилии чётное, вариант 2 – если нечётное.
 
-Задание	Дедлайн	Форма
-Вариант 1, данные	30 января 10:00	ссылка
-Вариант 2, данные	30 января 10:00	ссылка
+| Задание | Дедлайн |  Форма |
+|:-:|:--:|:---:|
+| Вариант 1, данные | 30 января 10:00 |  ссылка |
+| Вариант 2, данные | 30 января 10:00 |  ссылка |
+
 
 ## Неделя 9. Мультиндексы. Примеры графиков 2: линейный график
 
-* Практикум 11. Мультиндексы. Примеры графиков: линейный график ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice11.ipynb), [csv](https://github.com/allatambov/PyDat25/blob/main/Weather_Data.csv))
+* Практикум 11. Мультиндексы. Примеры графиков: линейный график ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice11.ipynb), [csv](https://github.com/allatambov/PyDat25/blob/main/Weather_Data.csv)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice11-solved.ipynb))
+* * Практикум 11*. Дополнительные настройки линейных графиков (ipynb)
 
 ## Неделя 10. Характеристики распределения
 
-* Практикум 12. Характеристики распределения. Асимметрия и эксцесс ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice12.ipynb))
+* Практикум 12. Характеристики распределения. Асимметрия и эксцесс ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice12.ipynb)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice12-solved.ipynb))
+* Асимметрия и эксцесс: немного теории (слайды)
+
+## Лабораторная работа 6. Проверка гипотез и примеры статистических критериев
+
+* Необходимая теория для выполнения работы: [слайды](https://disk.yandex.ru/i/Mc8dVrDRb5MFFg)
+
+Для сдачи задания нужно скачать ipynb-файл ниже, вписать код вместо ### YOUR CODE HERE ###,
+сохранить изменения, загрузить по ссылке на Dropbox.
+
+| Задание | Дедлайн |  Dropbox |
+|:-:|:--:|:---:|
+| [Лабораторная работа №6](https://github.com/allatambov/PyDat25/blob/main/lab06.ipynb) | 13 февраля 11:00 |  [ссылка](https://www.dropbox.com/request/5on3cRYOglj3fXfKFfaV) |
 
