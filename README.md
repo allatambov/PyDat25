@@ -142,7 +142,7 @@
 ### Неделя 10. Характеристики распределения
 
 * Практикум 12. Характеристики распределения. Асимметрия и эксцесс ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice12.ipynb)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice12-solved.ipynb))
-* Асимметрия и эксцесс: немного теории (слайды)
+* Асимметрия и эксцесс: немного теории ([слайды](https://disk.yandex.ru/d/PhdyZg6SOwUokw))
 
 ### Лабораторная работа 6. Проверка гипотез и примеры статистических критериев
 
