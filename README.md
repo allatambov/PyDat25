@@ -155,3 +155,7 @@
 |:-:|:--:|:---:|
 | [Лабораторная работа №6](https://github.com/allatambov/PyDat25/blob/main/lab06.ipynb) | 13 февраля 11:00 |  [ссылка](https://www.dropbox.com/request/5on3cRYOglj3fXfKFfaV) |
 
+### Неделя 11. Сравнение двух групп: визуализация и проверка гипотез
+
+* Практикум 13. Сравнение двух групп: визуализация и проверка гипотез ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice13.ipynb))
+
