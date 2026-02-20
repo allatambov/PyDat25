@@ -158,4 +158,8 @@
 ### Неделя 11. Сравнение двух групп: визуализация и проверка гипотез
 
 * Практикум 13. Сравнение двух групп: визуализация и проверка гипотез ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice13.ipynb))
+  
+### Неделя 12. Меры связи: коэффициенты корреляции
+
+Данные: [ссылка](https://vincentarelbundock.github.io/Rdatasets/csv/Ecdat/Griliches.csv), [описание](https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/Griliches.html) данных
 
