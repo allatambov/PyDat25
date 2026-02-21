@@ -161,5 +161,18 @@
   
 ### Неделя 12. Меры связи: коэффициенты корреляции
 
-Данные: [ссылка](https://vincentarelbundock.github.io/Rdatasets/csv/Ecdat/Griliches.csv), [описание](https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/Griliches.html) данных
+* Диаграммы рассеивания и коэффициенты корреляции ([слайды](https://disk.yandex.ru/i/_oMeQfPQRoafew))
+* Данные: [ссылка](https://vincentarelbundock.github.io/Rdatasets/csv/Ecdat/Griliches.csv), [описание](https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/Griliches.html) данных
+* Практикум 14. Корреляционная матрица и коэффициенты корреляции
+
+### Лабораторная работа 7. Меры связи
+
+* Необходимая теория для выполнения работы: см выше материалы недели 12 + [слайды](https://disk.yandex.ru/i/SNZVy5QZ3zKwRg) по критерию хи-квадрат
+
+Для сдачи задания нужно скачать ipynb-файл ниже, вписать код вместо ### YOUR CODE HERE ###,
+сохранить изменения, загрузить по ссылке на Dropbox.
+
+| Задание | Дедлайн |  Dropbox |
+|:-:|:--:|:---:|
+| [Лабораторная работа №7](https://github.com/allatambov/PyDat25/blob/main/lab07.ipynb) | 01 марта 12:00 |  [ссылка]() |
 
