@@ -1,0 +1,187 @@
+CountryID,Country Name,Region,Property Rights,Judical Effectiveness,Fiscal Health,Business Freedom,Investment Freedom ,Financial Freedom,Tax Burden % of GDP
+1,Afghanistan,Asia-Pacific,19.6,29.6,99.3,49.2,10.0,10.0,5.0
+2,Albania,Europe,54.8,30.6,80.6,69.3,70.0,70.0,24.9
+3,Algeria,Middle East and North Africa,31.6,36.2,18.7,61.6,30.0,30.0,24.5
+4,Angola,Sub-Saharan Africa,35.9,26.6,58.2,55.7,30.0,40.0,20.6
+5,Argentina,Americas,47.8,44.5,33.0,56.4,55.0,60.0,30.8
+6,Armenia,Europe,57.2,46.3,53.0,78.3,75.0,70.0,21.3
+7,Australia,Asia-Pacific,79.1,86.5,86.2,88.3,80.0,90.0,28.2
+8,Austria,Europe,84.2,71.3,85.5,74.9,90.0,70.0,42.7
+9,Azerbaijan,Asia-Pacific,59.1,53.1,89.4,69.5,60.0,60.0,15.0
+10,Bahamas,Americas,42.2,46.9,65.7,68.5,50.0,60.0,16.3
+11,Bahrain,Middle East and North Africa,63.5,50.7,3.7,71.4,75.0,80.0,5.6
+12,Bangladesh,Asia-Pacific,36.1,34.5,77.6,50.9,45.0,30.0,8.8
+13,Barbados,Americas,52.9,59.9,79.5,69.8,70.0,60.0,33.7
+14,Belarus,Europe,55.2,51.7,85.4,75.0,30.0,10.0,23.8
+15,Belgium,Europe,81.3,61.6,73.4,78.1,85.0,70.0,44.2
+16,Belize,Americas,41.7,46.9,39.1,61.8,55.0,50.0,27.6
+17,Benin,Sub-Saharan Africa,37.2,32.8,27.9,62.4,70.0,50.0,11.9
+18,Bhutan,Asia-Pacific,62.5,55.4,77.6,68.7,20.0,30.0,13.4
+19,Bolivia,Americas,20.5,12.3,17.6,58.8,15.0,40.0,31.1
+20,Bosnia and Herzegovina,Europe,40.2,37.9,96.6,49.7,65.0,60.0,37.0
+21,Botswana,Sub-Saharan Africa,58.1,45.7,94.6,68.7,65.0,70.0,24.9
+22,Brazil,Americas,57.3,51.7,5.9,57.9,50.0,50.0,32.2
+186,Brunei Darussalam,Asia-Pacific,64.0,56.0,20.0,80.2,65.0,50.0,24.2
+23,Bulgaria,Europe,62.5,41.9,98.8,62.7,70.0,60.0,28.0
+24,Burkina Faso,Sub-Saharan Africa,49.1,42.9,61.8,51.6,65.0,40.0,16.3
+25,Burma,Asia-Pacific,34.7,18.1,78.3,52.8,30.0,20.0,6.5
+26,Burundi,Sub-Saharan Africa,20.6,31.0,23.3,50.3,50.0,30.0,12.3
+27,Cambodia,Asia-Pacific,37.4,27.6,89.1,29.9,60.0,50.0,15.0
+28,Cameroon,Sub-Saharan Africa,42.5,31.3,58.4,44.4,30.0,50.0,15.6
+29,Canada,Americas,87.0,69.4,83.1,81.9,80.0,80.0,31.7
+30,Cabo Verde,Sub-Saharan Africa,44.1,49.0,59.7,65.2,80.0,60.0,23.7
+31,Central African Republic,Sub-Saharan Africa,19.6,29.6,94.3,24.2,45.0,30.0,9.0
+32,Chad,Sub-Saharan Africa,26.7,24.6,85.2,28.1,60.0,40.0,5.3
+33,Chile,Americas,68.7,56.3,89.0,76.6,85.0,70.0,20.4
+34,China,Asia-Pacific,49.9,75.2,76.0,56.2,25.0,20.0,17.5
+35,Colombia,Americas,59.2,34.3,79.2,71.4,80.0,70.0,19.9
+36,Comoros,Sub-Saharan Africa,36.5,29.6,91.7,57.2,45.0,30.0,14.5
+37,"Congo, Democratic Republic of the Congo",Sub-Saharan Africa,25.3,30.7,96.9,53.2,30.0,20.0,10.8
+38,"Congo, Republic of",Sub-Saharan Africa,33.2,29.6,0.0,38.2,45.0,30.0,29.5
+39,Costa Rica,Americas,58.3,54.0,42.5,67.2,70.0,50.0,23.6
+40,Côte d'Ivoire,Sub-Saharan Africa,40.9,47.8,74.3,61.0,75.0,50.0,18.2
+41,Croatia,Europe,66.0,42.9,85.4,60.7,75.0,60.0,37.9
+42,Cuba,Americas,31.6,10.0,15.6,20.0,10.0,10.0,41.5
+43,Cyprus,Europe,73.1,48.1,80.3,76.9,75.0,60.0,33.6
+44,Czech Republic,Europe,74.8,47.6,97.6,72.4,80.0,80.0,34.0
+45,Denmark,Europe,86.2,77.8,96.7,90.7,90.0,80.0,45.9
+46,Djibouti,Sub-Saharan Africa,29.7,18.1,18.1,54.7,80.0,50.0,29.2
+47,Dominica,Americas,49.2,63.8,84.7,70.7,70.0,30.0,25.8
+48,Dominican Republic,Americas,50.6,18.1,89.9,51.9,70.0,40.0,13.6
+49,Ecuador,Americas,35.9,20.2,32.1,54.1,35.0,40.0,21.2
+50,Egypt,Middle East and North Africa,37.0,48.3,0.0,65.9,60.0,50.0,18.0
+51,El Salvador,Americas,37.6,29.1,81.9,57.2,75.0,60.0,19.7
+52,Equatorial Guinea,Sub-Saharan Africa,29.7,18.1,16.4,37.6,40.0,30.0,20.4
+53,Eritrea,Sub-Saharan Africa,35.5,18.1,0.0,17.7,0.0,20.0,8.0
+54,Estonia,Europe,81.5,76.0,99.8,75.3,90.0,70.0,34.7
+156,Eswatini,Sub-Saharan Africa,41.7,42.9,18.3,59.2,50.0,40.0,25.5
+55,Ethiopia,Sub-Saharan Africa,32.6,40.9,83.3,48.6,35.0,20.0,12.4
+56,Fiji,Asia-Pacific,67.3,42.9,82.4,63.0,55.0,50.0,25.5
+57,Finland,Europe,89.6,81.2,86.4,89.4,85.0,80.0,44.1
+58,France,Europe,82.5,66.1,64.9,81.2,75.0,70.0,45.3
+59,Gabon,Sub-Saharan Africa,28.1,30.6,82.1,52.1,60.0,40.0,17.3
+60,Gambia,Sub-Saharan Africa,39.9,42.5,0.0,54.0,65.0,50.0,17.9
+61,Georgia,Europe,65.9,54.6,93.9,85.8,80.0,70.0,25.8
+62,Germany,Europe,79.9,75.4,91.8,83.3,80.0,70.0,37.6
+63,Ghana,Sub-Saharan Africa,49.1,44.2,23.9,56.5,70.0,60.0,16.5
+64,Greece,Europe,52.4,49.5,79.0,74.1,55.0,50.0,38.6
+65,Guatemala,Americas,40.3,32.3,96.2,53.6,70.0,50.0,12.6
+66,Guinea,Sub-Saharan Africa,34.7,32.6,87.2,54.6,50.0,40.0,15.3
+67,Guinea-Bissau,Sub-Saharan Africa,32.6,42.9,81.4,35.9,30.0,30.0,9.6
+68,Guyana,Americas,41.7,42.9,77.6,59.3,55.0,30.0,24.4
+69,Haiti,Americas,10.4,25.3,95.9,36.2,45.0,30.0,14.5
+70,Honduras,Americas,43.4,31.0,95.9,56.9,65.0,60.0,21.6
+71,Hong Kong,Asia-Pacific,93.3,75.3,100.0,96.4,90.0,90.0,14.0
+72,Hungary,Europe,60.9,45.2,85.0,61.1,80.0,70.0,39.4
+73,Iceland,Europe,87.4,63.8,96.7,88.4,85.0,70.0,36.4
+74,India,Asia-Pacific,57.3,61.6,14.7,57.1,40.0,40.0,7.2
+75,Indonesia,Asia-Pacific,52.2,53.5,88.1,69.3,45.0,60.0,10.4
+76,Iran,Middle East and North Africa,33.5,41.3,89.5,62.2,5.0,10.0,8.0
+77,Iraq,Middle East and North Africa,37.0,12.3,13.3,54.4,,,
+78,Ireland,Europe,85.8,68.4,89.0,83.1,90.0,70.0,23.0
+79,Israel,Middle East and North Africa,80.0,73.4,85.3,71.4,75.0,70.0,31.2
+80,Italy,Europe,71.7,49.8,71.3,71.7,85.0,50.0,42.9
+81,Jamaica,Americas,60.7,49.2,80.0,78.0,80.0,50.0,27.1
+82,Japan,Asia-Pacific,84.1,68.5,55.7,80.5,70.0,60.0,30.7
+83,Jordan,Middle East and North Africa,58.4,52.6,60.6,61.8,70.0,60.0,16.3
+84,Kazakhstan,Asia-Pacific,59.3,56.1,41.0,73.9,50.0,50.0,12.8
+85,Kenya,Sub-Saharan Africa,53.8,46.9,13.8,55.8,55.0,50.0,15.7
+86,Kiribati,Asia-Pacific,44.1,34.3,98.6,41.9,25.0,30.0,15.7
+87,"Korea, North ",Asia-Pacific,31.6,5.0,0.0,5.0,0.0,0.0,
+88,"Korea, South",Asia-Pacific,79.3,57.5,96.8,91.3,70.0,70.0,26.3
+185,Kosovo,Europe,57.2,53.5,96.0,73.8,65.0,30.0,23.5
+89,Kuwait,Middle East and North Africa,52.9,43.3,99.1,57.4,55.0,60.0,1.6
+90,Kyrgyz Republic,Asia-Pacific,49.9,27.9,78.4,73.4,60.0,50.0,19.7
+91,Laos,Asia-Pacific,38.8,42.5,66.5,60.1,35.0,20.0,12.8
+92,Latvia,Europe,67.3,48.4,96.9,77.5,85.0,60.0,30.2
+93,Lebanon,Middle East and North Africa,39.5,26.6,0.0,47.9,60.0,50.0,13.8
+94,Lesotho,Sub-Saharan Africa,41.5,45.7,63.5,53.3,55.0,40.0,47.0
+95,Liberia,Sub-Saharan Africa,26.7,39.0,69.1,50.6,55.0,20.0,21.8
+96,Libya,Middle East and North Africa,7.6,24.4,20.0,40.2,5.0,,
+97,Liechtenstein,Europe,,,,,85.0,80.0,
+98,Lithuania,Europe,73.6,61.2,97.3,75.2,80.0,70.0,30.2
+99,Luxembourg,Europe,83.0,72.4,98.9,68.8,95.0,80.0,37.1
+100,Macau,Asia-Pacific,60.0,60.0,100.0,60.0,85.0,70.0,25.0
+101,Macedonia,Europe,65.1,60.7,82.9,80.2,65.0,60.0,24.8
+102,Madagascar,Sub-Saharan Africa,33.2,24.4,85.5,47.3,55.0,50.0,10.1
+103,Malawi,Sub-Saharan Africa,35.8,40.1,19.1,41.7,50.0,50.0,14.8
+104,Malaysia,Asia-Pacific,84.1,68.2,82.4,83.9,60.0,50.0,13.8
+105,Maldives,Asia-Pacific,43.9,36.4,10.7,78.3,35.0,30.0,20.5
+106,Mali,Sub-Saharan Africa,33.7,33.4,84.2,53.8,65.0,40.0,17.6
+107,Malta,Europe,69.8,50.4,94.5,67.1,85.0,60.0,33.6
+108,Mauritania,Sub-Saharan Africa,27.5,30.6,80.6,61.9,50.0,40.0,25.9
+109,Mauritius,Sub-Saharan Africa,69.5,62.1,73.6,79.8,80.0,70.0,18.4
+110,Mexico,Americas,59.1,34.9,83.2,67.8,75.0,60.0,17.2
+111,Micronesia,Asia-Pacific,7.6,26.6,98.8,57.4,35.0,30.0,13.2
+112,Moldova,Europe,55.2,29.6,92.0,67.0,55.0,50.0,31.5
+113,Mongolia,Asia-Pacific,48.2,23.8,6.2,66.0,50.0,60.0,20.7
+114,Montenegro,Europe,55.4,51.8,23.2,73.3,75.0,50.0,36.1
+115,Morocco,Middle East and North Africa,57.2,47.1,66.9,70.3,65.0,70.0,20.9
+116,Mozambique,Sub-Saharan Africa,33.9,35.2,16.6,57.1,35.0,50.0,20.2
+117,Namibia,Sub-Saharan Africa,55.9,54.7,15.7,65.8,65.0,40.0,28.6
+118,Nepal,Asia-Pacific,39.2,34.7,98.5,61.8,10.0,30.0,18.7
+119,Netherlands,Europe,88.0,74.7,93.3,81.4,90.0,80.0,38.8
+120,New Zealand,Asia-Pacific,95.0,83.5,98.6,91.0,80.0,80.0,32.1
+121,Nicaragua,Americas,33.4,18.7,93.9,56.0,60.0,50.0,22.6
+122,Niger,Sub-Saharan Africa,37.2,31.0,22.2,56.3,55.0,40.0,13.5
+123,Nigeria,Sub-Saharan Africa,36.5,34.3,68.2,51.2,45.0,40.0,5.2
+124,Norway,Europe,86.1,81.2,97.3,89.4,75.0,60.0,38.0
+125,Oman,Middle East and North Africa,58.1,51.6,16.1,75.2,65.0,60.0,8.5
+126,Pakistan,Asia-Pacific,41.5,40.2,49.2,56.1,55.0,40.0,12.4
+127,Panama,Americas,60.4,30.1,91.3,73.6,75.0,70.0,15.8
+128,Papua New Guinea,Asia-Pacific,37.4,49.0,75.2,62.2,25.0,30.0,12.5
+129,Paraguay,Americas,39.5,30.0,96.3,61.5,75.0,60.0,13.0
+130,Peru,Americas,56.1,34.0,88.5,67.8,75.0,60.0,16.0
+131,Philippines,Asia-Pacific,48.7,36.4,97.1,61.3,60.0,60.0,13.7
+132,Poland,Europe,62.3,44.0,86.4,65.4,80.0,70.0,33.6
+133,Portugal,Europe,71.5,64.3,69.8,79.7,70.0,60.0,34.4
+134,Qatar,Middle East and North Africa,64.5,60.0,94.0,71.2,60.0,60.0,5.7
+135,Romania,Europe,66.7,51.9,89.3,63.1,70.0,50.0,26.0
+136,Russia,Europe,52.4,45.1,86.6,78.4,30.0,30.0,22.2
+137,Rwanda,Sub-Saharan Africa,72.2,83.2,86.3,56.2,60.0,40.0,15.0
+138,Saint Lucia,Americas,65.9,63.8,81.3,76.3,65.0,40.0,24.0
+139,Saint Vincent and the Grenadines,Americas,36.5,63.8,85.0,76.5,70.0,40.0,27.1
+140,Samoa,Asia-Pacific,53.8,31.0,93.6,77.0,55.0,30.0,23.6
+141,São Tomé and Príncipe,Sub-Saharan Africa,37.4,26.6,62.3,65.1,60.0,30.0,15.9
+142,Saudi Arabia,Middle East and North Africa,55.0,62.7,19.4,72.3,45.0,50.0,3.4
+143,Senegal,Sub-Saharan Africa,47.8,40.4,60.0,53.3,60.0,40.0,20.4
+144,Serbia,Europe,50.1,44.8,90.1,72.9,70.0,50.0,38.4
+145,Seychelles,Sub-Saharan Africa,58.2,37.5,92.0,63.3,55.0,30.0,32.6
+146,Sierra Leone,Sub-Saharan Africa,35.5,34.5,13.2,44.9,60.0,20.0,12.2
+147,Singapore,Asia-Pacific,97.4,92.4,80.0,90.8,85.0,80.0,13.7
+148,Slovakia,Europe,68.5,37.2,87.2,61.3,75.0,70.0,32.7
+149,Slovenia,Europe,76.4,46.5,82.6,79.3,70.0,50.0,37.0
+150,Solomon Islands,Asia-Pacific,49.9,51.7,89.4,68.6,15.0,30.0,30.8
+184,Somalia,Sub-Saharan Africa,33.7,26.6,,31.7,,,
+151,South Africa,Sub-Saharan Africa,58.8,39.3,62.6,64.3,45.0,50.0,31.3
+152,Spain,Europe,72.9,51.4,51.1,66.8,85.0,70.0,33.5
+153,Sri Lanka,Asia-Pacific,44.7,39.4,30.4,75.1,40.0,40.0,12.3
+154,Sudan,Sub-Saharan Africa,27.5,22.2,76.1,52.1,5.0,20.0,6.7
+155,Suriname,Americas,49.1,22.2,9.6,48.3,40.0,30.0,13.2
+157,Sweden,Europe,89.5,84.0,96.6,88.0,85.0,80.0,44.1
+158,Switzerland,Europe,85.3,82.0,96.3,75.4,85.0,90.0,27.8
+159,Syria,Middle East and North Africa,37.0,24.4,,49.6,0.0,,
+160,Taiwan ,Asia-Pacific,85.4,70.1,91.6,93.2,60.0,60.0,8.9
+161,Tajikistan,Asia-Pacific,47.8,52.1,60.3,67.3,25.0,30.0,20.6
+162,Tanzania,Sub-Saharan Africa,35.4,41.4,85.2,46.6,55.0,50.0,12.4
+163,Thailand,Asia-Pacific,53.7,45.9,96.5,82.5,55.0,60.0,15.6
+164,Timor-Leste,Asia-Pacific,29.7,13.1,20.0,60.5,45.0,20.0,13.1
+165,Togo,Sub-Saharan Africa,35.5,29.6,24.5,50.4,65.0,30.0,21.5
+166,Tonga,Asia-Pacific,59.2,26.6,93.4,75.3,40.0,20.0,20.7
+167,Trinidad and Tobago,Americas,52.3,40.6,16.6,67.8,60.0,50.0,22.8
+168,Tunisia,Middle East and North Africa,49.2,42.7,37.9,76.7,45.0,30.0,20.8
+169,Turkey,Europe,55.8,49.8,92.2,66.0,70.0,60.0,25.5
+170,Turkmenistan,Asia-Pacific,31.6,29.8,92.3,30.0,10.0,10.0,15.6
+171,Uganda,Sub-Saharan Africa,42.2,38.5,68.6,46.3,55.0,40.0,12.9
+172,Ukraine,Europe,43.9,31.5,82.6,66.1,35.0,30.0,33.1
+173,United Arab Emirates,Middle East and North Africa,81.8,87.1,88.9,79.9,40.0,60.0,8.9
+174,United Kingdom,Europe,92.3,85.9,68.6,92.9,90.0,80.0,33.2
+175,United States,Americas,79.3,78.6,53.1,83.8,85.0,80.0,26.0
+176,Uruguay,Americas,68.3,58.9,69.9,74.3,85.0,30.0,27.4
+177,Uzbekistan,Asia-Pacific,49.8,34.3,98.7,72.5,10.0,10.0,18.2
+178,Vanuatu,Asia-Pacific,65.9,36.4,15.3,52.4,65.0,40.0,16.3
+179,Venezuela,Americas,7.6,13.1,17.6,33.9,0.0,10.0,14.9
+180,Vietnam,Asia-Pacific,49.8,40.3,40.7,63.5,30.0,40.0,18.0
+181,Yemen,Middle East and North Africa,19.6,22.2,0.0,45.1,50.0,,
+182,Zambia,Sub-Saharan Africa,45.0,35.6,12.3,71.1,55.0,50.0,17.9
+183,Zimbabwe,Sub-Saharan Africa,29.7,24.8,23.7,33.4,25.0,10.0,22.3
