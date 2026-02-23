@@ -174,5 +174,5 @@
 
 | Задание | Дедлайн |  Dropbox |
 |:-:|:--:|:---:|
-| Лабораторная работа №7 | 02 марта 11:00 |  [ссылка]() |
+| [Лабораторная работа №7](https://github.com/allatambov/PyDat25/blob/main/lab07.ipynb) | 03 марта 11:00 |  [ссылка](https://www.dropbox.com/request/RdzwbFtEmlzBrbAFKiHC) |
 
