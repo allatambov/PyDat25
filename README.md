@@ -162,8 +162,7 @@
 ### Неделя 12. Меры связи: коэффициенты корреляции
 
 * Диаграммы рассеивания и коэффициенты корреляции ([слайды](https://disk.yandex.ru/i/_oMeQfPQRoafew))
-* Данные: [ссылка](https://vincentarelbundock.github.io/Rdatasets/csv/Ecdat/Griliches.csv), [описание](https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/Griliches.html) данных
-* Практикум 14. Корреляционная матрица и коэффициенты корреляции
+* Практикум 14. Корреляционная матрица и коэффициенты корреляции ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice14.ipynb), [csv](https://vincentarelbundock.github.io/Rdatasets/csv/Ecdat/Griliches.cs))
 
 ### Лабораторная работа 7. Меры связи
 
