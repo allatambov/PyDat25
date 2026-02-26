@@ -1,5 +1,9 @@
 # PyDat25
 
+### Материалы к независимому экзамену
+
+[Папка](https://disk.yandex.ru/d/CMJY2p_H1KZuqg) на Яндекс-диске (доступны по паролю в рассылке)
+
 ### Неделя 1. Шкалы данных. Датафреймы pandas: типы данных и перекодирование
 
 Все файлы в одной папке, если не скачивается с Github.
@@ -175,4 +179,10 @@
 | Задание | Дедлайн |  Dropbox |
 |:-:|:--:|:---:|
 | [Лабораторная работа №7](https://github.com/allatambov/PyDat25/blob/main/lab07.ipynb) | 03 марта 11:00 |  [ссылка](https://www.dropbox.com/request/RdzwbFtEmlzBrbAFKiHC) |
+
+### Неделя 13. Линейная регрессия
+
+* Введение в машинное обучение и линейная регрессия (слайды)
+* Практикум 15. Линейная регрессия ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice15.ipynb))
+
 
