@@ -182,7 +182,9 @@
 
 ### Неделя 13. Линейная регрессия
 
-* Введение в машинное обучение и линейная регрессия (слайды)
-* Практикум 15. Линейная регрессия ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice15.ipynb))
+* Введение в машинное обучение и линейная регрессия ([слайды](https://disk.yandex.ru/i/_FreKy0RSfbEVw))
+* Практикум 15. Линейная регрессия ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice15.ipynb)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice15-solved.ipynb))
+
+
 
 
