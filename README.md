@@ -32,7 +32,6 @@
 |:-:|:--:|:---:|
 | [Лабораторная работа №1](https://github.com/allatambov/PyDat25/blob/main/lab01.ipynb) | 18 ноября 10:00 |   |
 
-
 ### Неделя 2. Датафреймы pandas: фильтрация
 
 * Практикум 2. Датафреймы pandas: поиск пропущенных значений и фильтрация наблюдений ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice02.ipynb), [csv](https://github.com/allatambov/PyDat25/blob/main/disney_clean.csv)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice02-solved.ipynb))
@@ -183,8 +182,11 @@
 ### Неделя 13. Линейная регрессия
 
 * Введение в машинное обучение и линейная регрессия ([слайды](https://disk.yandex.ru/i/_FreKy0RSfbEVw))
+* Линейные модели с логарифмированными переменными (слайды)
 * Практикум 15. Линейная регрессия ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice15.ipynb)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice15-solved.ipynb))
 
+### Неделя 14. Логистическая регрессия
 
-
+* Логистическая регрессия (слайды)
+* Практикум 16. Логистическая регрессия: часть 1 ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice16.ipynb), [данные](https://github.com/allatambov/PyDat25/blob/main/flowers_two.csv))
 
