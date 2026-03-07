@@ -182,11 +182,12 @@
 ### Неделя 13. Линейная регрессия
 
 * Введение в машинное обучение и линейная регрессия ([слайды](https://disk.yandex.ru/i/_FreKy0RSfbEVw))
-* Линейные модели с логарифмированными переменными (слайды)
+* Линейные модели с логарифмированными переменными ([слайды](https://disk.yandex.ru/d/d-v32GC7sYN05w))
 * Практикум 15. Линейная регрессия ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice15.ipynb)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice15-solved.ipynb))
 
-### Неделя 14. Логистическая регрессия
+### Недели 14-15. Логистическая регрессия
 
-* Логистическая регрессия (слайды)
+* Логистическая регрессия ([слайды](https://disk.yandex.ru/i/C_bBueY4M-goUQ))
 * Практикум 16. Логистическая регрессия: часть 1 ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice16.ipynb), [данные](https://github.com/allatambov/PyDat25/blob/main/flowers_two.csv))
+* Практикум 17. Логистическая регрессия: часть 2 – следующая неделя
 
