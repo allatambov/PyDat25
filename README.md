@@ -191,3 +191,8 @@
 * Практикум 16. Логистическая регрессия: часть 1 ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice16.ipynb), [данные](https://github.com/allatambov/PyDat25/blob/main/flowers_two.csv))
 * Практикум 17. Логистическая регрессия: часть 2 – следующая неделя
 
+### Лабораторная работа 8. Линейная и логистическая регрессии
+
+| Задание | Файл с вариантами | Дедлайн|
+|:-:|:--:|:---:|
+| [Лабораторная работа №8](https://forms.gle/f18dzdixKkpdUTqPA) | [файл](https://disk.yandex.ru/i/bNV0y46z08XYuA) со значениями для подстановки  | 16 марта 11:00
