@@ -188,7 +188,7 @@
 ### Недели 14-15. Логистическая регрессия
 
 * Логистическая регрессия ([слайды](https://disk.yandex.ru/i/C_bBueY4M-goUQ))
-* Практикум 16. Логистическая регрессия: часть 1 ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice16.ipynb), [данные](https://github.com/allatambov/PyDat25/blob/main/flowers_two.csv))
+* Практикум 16. Логистическая регрессия: часть 1 ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice16.ipynb), [данные](https://github.com/allatambov/PyDat25/blob/main/flowers_two.csv)), решения ([ipynb](https://github.com/allatambov/PyDat25/blob/main/pydat-practice16-solved.ipynb))
 * Практикум 17. Логистическая регрессия: часть 2 – следующая неделя
 
 ### Лабораторная работа 8. Линейная и логистическая регрессии
