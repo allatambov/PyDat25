@@ -199,6 +199,6 @@
 
 ### ЭКЗАМЕН
 
-*  СЛОТ01: варианты, загружать [сюда](https://www.dropbox.com/request/j0RXYRhBTYCvf2xHrxTT) (Dropbox)
+*  СЛОТ01: [варианты](https://disk.yandex.ru/d/w2U3TDWh2oM1dw), загружать [сюда](https://www.dropbox.com/request/j0RXYRhBTYCvf2xHrxTT) (Dropbox)
 *  СЛОТ02: варианты, загружать [сюда](https://www.dropbox.com/request/k5dPIwPvny9hx92QstRw) (Dropbox)
 
