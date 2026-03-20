@@ -196,3 +196,9 @@
 | Задание | Файл с вариантами | Дедлайн|
 |:-:|:--:|:---:|
 | [Лабораторная работа №8](https://forms.gle/f18dzdixKkpdUTqPA) | [файл](https://disk.yandex.ru/i/bNV0y46z08XYuA) со значениями для подстановки  | 16 марта 11:00
+
+### ЭКЗАМЕН
+
+*  СЛОТ01: варианты, загружать [сюда](https://www.dropbox.com/request/j0RXYRhBTYCvf2xHrxTT) (Dropbox)
+*  СЛОТ02: варианты, загружать [сюда](https://www.dropbox.com/request/k5dPIwPvny9hx92QstRw) (Dropbox)
+
